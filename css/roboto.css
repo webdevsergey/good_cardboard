@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Roboto Bold';
+	src: local('../fonts/Roboto Bold'), local('../fonts/Roboto-Bold'),
+	url('../fonts/Roboto-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto Reg';
+	src: local('../fonts/Roboto Reg'), local('../fonts/Roboto-Regular'),
+	url('../fonts/Roboto-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

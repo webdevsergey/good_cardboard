@@ -1,0 +1,17 @@
+.header-contacts {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+.header-contacts__phone {
+  font-size: 22px;
+}
+.header-contacts__button {
+  font-size: 14px;
+  font-weight: 500;
+  color: #fff;
+  border: none;
+}
